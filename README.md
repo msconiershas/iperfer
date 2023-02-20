@@ -1,4 +1,4 @@
-# iperfer
+# iperfer CS640 UW-Madison
 
 Overview
 Iperf is a common tool used to measure network bandwidth. You will write your own version of this tool in Java using sockets. You will then use your tools to measure the performance of virtual networks in Mininet and explain how link characteristics and multiplexing impact performance. Part 1: Write Iperfer Part 2: Mininet Tutorial Part 3: Measurements in Mininet Submission Instructions Appendix A: Testing Iperfer in Mininet Learning Outcomes
